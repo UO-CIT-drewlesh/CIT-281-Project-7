@@ -1,1 +1,3 @@
-
+theme: jekyll-theme-minimal
+title: Drew Lesh - CIT281 - Project 7
+description: Create a Github Page that links to another Github page for each of the labs and projects in CIT-281. Provided descriptions, images, and repository links in each of the pages.
